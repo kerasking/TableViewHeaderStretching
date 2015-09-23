@@ -1,6 +1,8 @@
 # TableViewHeaderStretching
 
-##快速集成可拉伸头部图片的UITableView
+###快速集成可拉伸头部图片的UITableView
+
+0、将HeaderStretchingTableViewController文件夹拽入自己的项目中
 
 1、新建一个UITableViewController继承自HeaderStretchingTableViewController
 
